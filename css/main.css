@@ -1,0 +1,63 @@
+
+.theme{
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+}
+.fluid-image{
+  width: 100%;
+  height: 600px;
+  margin-top:20px;
+}
+
+.thumbnail{
+  height: 200px;
+  width: 100%;
+  border: 1px solid black;
+}
+
+#head{
+  text-align: center;
+  color: white;
+  font-weight: bolder;
+  font-size: 50px;
+  padding-top: 25%;
+}
+
+#details{
+    height: 600px;
+    background-image: url("../assets/bag.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#textContainer{
+  width: 100%;
+  height: 600px;
+}
+
+#btnBuy{
+  visibility: hidden;
+}
+
+#alertMsg{
+  visibility: hidden;
+  font-size: 50px;
+  color: black;
+  font-weight: bold;
+font-kerning: auto;
+text-align: center;
+margin-left: 25%;
+top:45%;
+position: absolute;
+}
+
+.textnbtn{
+  margin-left: 45%;
+  top:45%;
+  position: absolute;
+}
+.imageBgSize{
+  background-repeat: no-repeat;
+  background-size: contain;
+}
