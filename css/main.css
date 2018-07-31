@@ -61,3 +61,56 @@ position: absolute;
   background-repeat: no-repeat;
   background-size: contain;
 }
+
+.yangaNaine{
+  margin-top: 10%;
+}
+
+.hed{
+  margin-bottom: 40px;
+}
+.note{
+  margin-top: 40px;
+}
+
+.buttonStyle{
+  margin-left: 23px;
+  text-decoration-line: none;
+  background-color: #43617D;
+  color: azure;
+  font-size: 26px;
+  padding: 10px;
+  width: 200px; 
+  text-align: center; 
+}
+.buttonStyle:hover{
+  color: aqua;
+  text-decoration-line: none;  
+  text-decoration: none;
+}
+div#welcome {
+  height: 300px;
+  padding: 20px;
+  background-color: #5A8DAB;
+}
+
+#pth{
+    margin-top: 100px;
+    height: 50px;
+    color: azure;
+    text-align: center;
+    font-size: 5em;
+}
+.buttons{
+  display: flex;
+  /* align-content: center; */
+  -webkit-align-items: center; /* Safari */
+  align-items:         center;
+  margin-top: 10px;
+  justify-content: center;
+  height: 300px;
+  background-color: #DAD2C7; 
+}
+.child{
+
+}

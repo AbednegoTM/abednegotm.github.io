@@ -1,5 +1,5 @@
 $(document).ready(function () {
-var path = 'assets/';
+var path = '../assets/';
 var image = ['bag.jpg','chair.jpg','google-home-voice.jpg','spoons.jpg'];
 
 
