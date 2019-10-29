@@ -72,8 +72,7 @@ table th {
   text-align: left;
 }
 .c11 {
-  padding-top: 0pt;
-  padding-bottom: 0pt;
+  margin-top: 20px;
   line-height: 1.15;
   orphans: 2;
   widows: 2;
